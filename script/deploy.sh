@@ -17,3 +17,4 @@ git commit -m "[skip ci] clean up class files" # we don't want to trigger a buil
 git remote set-url origin git@github.com:githubschool/open-enrollment-classes-introduction-to-github.git # Travis automatically clones via HTTPS -- this allows us to push using SSH
 git push -u origin master
 echo "All done."
+
